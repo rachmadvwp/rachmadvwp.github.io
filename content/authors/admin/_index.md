@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Professional Website
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Rachmad
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rachmad V. W.
+last_name: Putra
 
 # Status emoji
 status:
