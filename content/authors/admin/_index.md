@@ -3,7 +3,7 @@
 title: Rachmad V. W. Putra
 
 # Name pronunciation (optional)
-name_pronunciation: Rachmad
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Rachmad V. W. 
@@ -33,29 +33,31 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rachmad.putra@nyu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/rachmadvwp
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/rachmadvidya
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=ImAzOz0AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8597-4530
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Brain-inspired Computing 
+  - Neuromorphic Computing & Cognitive Systems
+  - Integrated Circuits, VLSI, and Chip Design
+  - Computer Architectures and Systems
+  - Emerging Device Technologies
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: Technische Universität Wien (TU Wien) 
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
