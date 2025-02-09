@@ -10,8 +10,8 @@ first_name: Rachmad V. W.
 last_name: Putra
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/rachmadvwp
   - icon: brands/linkedin
-    url: https://www.linkedin.com/rachmadvidya
+    url: https://www.linkedin.com/in/rachmadvidya/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ImAzOz0AAAAJ
   - icon: academicons/orcid
@@ -49,14 +49,15 @@ profiles:
 interests:
   - Brain-inspired Computing 
   - Neuromorphic Computing 
-  - Cognitive Systems
   - Integrated Circuits & VLSI
-  - Processor/Chip Design
+  - Processor (Chip) Design
   - Computer Architecture
   - Emerging Device Technologies
+  - Cognitive Systems
+  - Embedded AI
 
 education:
-  - area: Ph.D. (Dr. techn.) Computer Science
+  - area: PhD (Dr. techn.) Computer Science
     institution: Technische Universität Wien, AT
     # date_start: 2016-01-01
     # date_end: 2020-12-31
@@ -65,13 +66,13 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.Sc. Microelectronics
+  - area: MSc Microelectronics
     institution: Bandung Institute of Technology, ID
     # date_start: 2016-01-01
     # date_end: 2020-12-31
     summary: |
       Thesis on _Hybrid Multi-System-on-Chip Architecture as a Rapid Development Approach for a High-Flexibility System_. Supervised by [Prof. Trio Adiono]. 
-  - area: B.Sc. Electrical Engineering
+  - area: BSc Electrical Engineering
     institution: Bandung Institute of Technology, ID
     # date_start: 2016-01-01
     # date_end: 2020-12-31
@@ -164,6 +165,5 @@ languages:
 
 ## About Me
 
-I am a Research Team Leader at eBrain Lab, New York University (NYU) Abu Dhabi, Abu Dhabi, UAE. 
-I received Ph.D. degree in Computer Science from Technische Universität Wien (TU Wien), Vienna, Austria with an excellent distinction. Prior to that, I received B.Sc. degree in Electrical Engineering and M.Sc. degree in Electronics Engineering from Bandung Institute of Technology (ITB), Indonesia with cumlaude distinction. In academia, I have worked as a teaching assistant at the Electrical Engineering ITB, a research assistant at the Microelectronics Center ITB, and a project research assistant at the Institute of Computer Engineering, TU Wien. Meanwhile, in industry, he also experienced working as an FPGA engineer at the PT. Fusi Global Teknologi, Indonesia, and at the TriLite Technologies GmbH, Austria. I received multiple HiPEAC Paper Awards and an ACM Showcase for his first-authored papers during Ph.D. study, and a best paper nomination in ICARCV 2024. 
+I am a Research Team Leader at eBrain Lab, New York University (NYU) Abu Dhabi, Abu Dhabi, UAE. I received Ph.D. degree in Computer Science from Technische Universität Wien (TU Wien), Vienna, Austria with an excellent distinction. Prior to that, I received B.Sc. degree in Electrical Engineering and M.Sc. degree in Electronics Engineering from Bandung Institute of Technology (ITB), Indonesia with cumlaude distinction. In academia, I have worked as a teaching assistant at the Electrical Engineering ITB, a research assistant at the Microelectronics Center ITB, and a project research assistant at the Institute of Computer Engineering, TU Wien. Meanwhile, in industry, I also experienced working as an FPGA engineer at the PT. Fusi Global Teknologi, Indonesia, and at the TriLite Technologies GmbH, Austria. I received multiple HiPEAC Paper Awards and an ACM Showcase for my first-authored papers during Ph.D. study, and a best paper nomination in ICARCV 2024. 
 
