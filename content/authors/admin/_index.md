@@ -48,43 +48,36 @@ profiles:
 
 interests:
   - Brain-inspired Computing 
-  - Neuromorphic Computing & Cognitive Systems
-  - Integrated Circuits, VLSI, and Chip Design
-  - Computer Architectures and Systems
+  - Neuromorphic Computing 
+  - Cognitive Systems
+  - Integrated Circuits & VLSI
+  - Processor/Chip Design
+  - Computer Architecture
   - Emerging Device Technologies
 
 education:
-  - area: PhD Computer Science
-    institution: Technische Universität Wien (TU Wien) 
+  - area: Ph.D. (Dr. techn.) Computer Science
+    institution: Technische Universität Wien (TU Wien), AT 
     # date_start: 2016-01-01
     # date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Energy Efficiency and Fault Tolerance for Spiking and Deep Neural Networks_. Supervised by [Prof. Muhammad Shafique](https://ebrain4everyone.com/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Microelectronics
+    institution: Bandung Institute of Technology (ITB), ID
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      Thesis on _Hybrid Multi-System-on-Chip Architecture as a Rapid Development Approach for a High-Flexibility System_. Supervised by [Prof. Trio Adiono]. 
+  - area: B.Sc. Electrical Engineering
+    institution: Bandung Institute of Technology (ITB), ID
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    summary: |
+      Thesis on _Reconfiguration of OpenSPARC T1 8-Cores Processor to Low-Cost Single-Core Processor_. Supervised by [Prof. Trio Adiono]. 
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
